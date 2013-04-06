@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="SwitchButtonStyle">
+        <item name="background">@drawable/btn_background</item>
+        <item name="btnSlip">@drawable/btn_slip</item>
+        <item name="switchState">true</item>
+    </style>
+
+</resources>
